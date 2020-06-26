@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158925244135",
+    "firebase_url": "https://movie-admin-ea0d2.firebaseio.com",
+    "project_id": "movie-admin-ea0d2",
+    "storage_bucket": "movie-admin-ea0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158925244135:android:1042c291038ee983570442",
+        "android_client_info": {
+          "package_name": "com.waiyanoo.moviesadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158925244135-keqor0man3d86g7j727iva2q04vgqrim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmqgq7P9FSZhuL_gUTqG61Yvd6nKz7M3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158925244135-keqor0man3d86g7j727iva2q04vgqrim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
